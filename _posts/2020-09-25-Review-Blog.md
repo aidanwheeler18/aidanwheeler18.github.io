@@ -19,7 +19,7 @@ This project is an interactive tool for everyday people, but the site is also us
 
 Critiques I have about this DH Project would be its User Interface. The project shines with an interactive map and timeline, but they only take up the middle third of the main page. A significant part of the page is taken up by the header, search section, legend, and maps sections. There is an importance to these features, but many other DH Projects find a way to do more efficient.
 
-![Fuller Long Image](https://github.com/aidanwheeler18/aidanwheeler18.github.io/blob/master/images/Digital%20Harlem%20Fuller%20Long.png)
+![Fuller Long Image](https://aidanwheeler18.github.io/aidanwheeler18.github.io/images/Digital Harlem Fuller Long.png)
 
 A unique feature about this DH Project is its ability to choose and follow the life of individuals. It’s a great feature that sums up the life of individuals and tracks their path through Harlem on the map and timeline. These stories were great and definitely a highlight, but it was disappointing as the project only offered six of these stories. It is understandable because making these requires a large amount of information on one individual, but it would have been nice to see a few more.
 
