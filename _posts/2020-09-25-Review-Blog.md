@@ -2,6 +2,15 @@
 layout: post
 title: Review Post
 ---
+Project:
+Digital Harlem Everyday Life 1915-1930
+
+Project Directors:
+Shane White, Stephen Garton, Graham White, and Stephen Robertson
+
+Project URL:
+http://digitalharlem.org/
+
 The project, Digital Harlem Everyday Life 1915-1930, explores life during the Harlem Renaissance. The Project focuses on events including Parties, Arrests, Sporting Events, Funerals, and Fires. The site maps out each event on a map of New York also showing the area Harlem covered at different times in history. The site allows you to visually explore both types of events, individuals, and places. With the map, the site also uses a timeline to allow you to visualize the data in two different ways. Digital Harlem Everyday Life 1915-1930 shows what everyday people experienced during the Harlem Renaissance.
 
 One thing this project does great is the multitude of different options it gives the user. Harlem Digital uses the web application “Heurist”. It is an academic knowledge management system developed by Dr. Ian Johnson. This includes seeing the data at different times in Harlem’s history from 1915-1930. This helps the user learn not only how Harlem was during the period, but also how it changed. The way the map outlines where Harlem was during different decades in history exemplifies this.
