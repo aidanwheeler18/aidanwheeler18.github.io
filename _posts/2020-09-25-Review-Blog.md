@@ -2,13 +2,13 @@
 layout: post
 title: Review Post
 ---
-# H2 Project:
+Project:
 Digital Harlem Everyday Life 1915-1930
 
-# H2 Project Directors:
+Project Directors:
 Shane White, Stephen Garton, Graham White, and Stephen Robertson
 
-# H2 Project URL:
+Project URL:
 http://digitalharlem.org/
 
 The project, Digital Harlem Everyday Life 1915-1930, explores life during the Harlem Renaissance. The Project focuses on events including Parties, Arrests, Sporting Events, Funerals, and Fires. The site maps out each event on a map of New York also showing the area Harlem covered at different times in history. The site allows you to visually explore both types of events, individuals, and places. With the map, the site also uses a timeline to allow you to visualize the data in two different ways. Digital Harlem Everyday Life 1915-1930 shows what everyday people experienced during the Harlem Renaissance.
